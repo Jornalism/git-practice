@@ -2,6 +2,3 @@ three
 
 heheheh
 
-
-Hello Three
-
